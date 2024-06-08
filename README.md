@@ -1,2 +1,2 @@
-# ED-NER
-This is the ED-NER repository, our code will be open source soon.
+# EDU-NER
+This is the EDU-NER repository, our code will be open source soon.
